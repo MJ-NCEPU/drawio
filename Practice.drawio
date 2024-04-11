@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-07T07:47:55.329Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5_rNpbIhf1b2wTRsb1i8" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-11T09:23:28.246Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="eB_ou2Y8HdfnUUwqf2xI" version="24.2.2" type="github">
   <diagram id="jYacIh1_9vCdclqxNQrs" name="第 1 页">
-    <mxGraphModel dx="2099" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="1534" dy="367" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -353,7 +353,7 @@
         <mxCell id="trVtFAZA_i3sqb9kYu9P-1" value="小组工作介入流动儿童&#xa;提升校园欺凌认知的实务研究" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="276.50000000000006" y="1025" width="300" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="ghdnVHW1uxqy0EEBZ9zU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="fhe83jb_m9mDdULVDumZ-1" target="8SySuGSwtSwrXmpv4gu5-4">
+        <mxCell id="ghdnVHW1uxqy0EEBZ9zU-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="fhe83jb_m9mDdULVDumZ-1" target="8SySuGSwtSwrXmpv4gu5-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fhe83jb_m9mDdULVDumZ-1" value="调查法" style="rounded=1;strokeWidth=2;fontFamily=宋体;fontSize=15;fontStyle=1;" parent="1" vertex="1">
@@ -608,6 +608,148 @@
         </mxCell>
         <mxCell id="Ec7jvhydvFq0hc0JG8Gc-109" value="观察法" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-441" y="1755" width="61" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-3" target="sI0fK_B0YFb7SStfJ-2y-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-3" value="城市低保对象个案需求分析" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="642.52" y="1758" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-88" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-16" target="sI0fK_B0YFb7SStfJ-2y-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-16" target="sI0fK_B0YFb7SStfJ-2y-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="738" y="1870" />
+              <mxPoint x="563" y="1870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-16" target="sI0fK_B0YFb7SStfJ-2y-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="738" y="1870" />
+              <mxPoint x="884" y="1870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-16" target="sI0fK_B0YFb7SStfJ-2y-78">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="738" y="1870" />
+              <mxPoint x="947" y="1870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-16" value="个案实务过程" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="676.29" y="1819" width="122.46" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-30" target="sI0fK_B0YFb7SStfJ-2y-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-30" value="疏解情绪" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="702.52" y="1961" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-34" target="sI0fK_B0YFb7SStfJ-2y-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-34" value="行为改变" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="779.96" y="1960" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-44" target="sI0fK_B0YFb7SStfJ-2y-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-44" value="个案工作介入城市低保对象&#xa;心理调适的实务研究" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="631.28" y="1610" width="212.48" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-48" target="sI0fK_B0YFb7SStfJ-2y-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-48" value="城市低保对象个案&#xa;资料收集，问题分析" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="655.04" y="1683" width="164.96" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-49" target="sI0fK_B0YFb7SStfJ-2y-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-49" value="半结构式访谈法" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="1689" width="111" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-50" target="sI0fK_B0YFb7SStfJ-2y-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-50" value="参与式观察法" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="509.41999999999996" y="1689" width="104.04" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-53" target="sI0fK_B0YFb7SStfJ-2y-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-53" value="认知行为理论" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="840.7599999999999" y="1818" width="103.46" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-55" target="sI0fK_B0YFb7SStfJ-2y-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-55" value="过程&#xa;评估" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="857.74" y="1949" width="52.26" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-73" target="sI0fK_B0YFb7SStfJ-2y-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-73" value="方案设计" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="1905" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="562.9999999999995" y="1993" as="sourcePoint" />
+            <mxPoint x="737.9899999999998" y="2052" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="563" y="2021" />
+              <mxPoint x="738" y="2021" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-74" value="介入策略" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="1962" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-75" target="sI0fK_B0YFb7SStfJ-2y-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-75" target="sI0fK_B0YFb7SStfJ-2y-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="738" y="1940" />
+              <mxPoint x="657" y="1940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-75" target="sI0fK_B0YFb7SStfJ-2y-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-75" value="实务开展" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="692.5199999999999" y="1890.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-76" value="个案介入城市低保对象心理调适&#xa;的研究结论与实务反思" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="618.24" y="2052" width="239.5" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="sI0fK_B0YFb7SStfJ-2y-77" target="sI0fK_B0YFb7SStfJ-2y-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-77" value="重建认知" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="621.4999999999999" y="1961" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="947" y="1989" as="sourcePoint" />
+            <mxPoint x="737.9899999999998" y="2052" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="947" y="2021" />
+              <mxPoint x="738" y="2021" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sI0fK_B0YFb7SStfJ-2y-78" value="结果&#xa;评估" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" vertex="1" parent="1">
+          <mxGeometry x="919" y="1948" width="56" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
