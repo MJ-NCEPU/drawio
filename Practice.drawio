@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-12T11:42:52.070Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="LfNeS-xUAZIB63jOTlDI" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T10:34:10.776Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="tVTD6eNlzWmx7sRJ6XIq" version="24.2.3" type="github">
   <diagram id="jYacIh1_9vCdclqxNQrs" name="第 1 页">
-    <mxGraphModel dx="1827" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2010" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -354,11 +354,8 @@
         <mxCell id="8SySuGSwtSwrXmpv4gu5-45" value="结果评估" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="664.46" y="1420" width="85" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7fjYkvtiIGzLcPPBIIvA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="8SySuGSwtSwrXmpv4gu5-51" target="8SySuGSwtSwrXmpv4gu5-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="8SySuGSwtSwrXmpv4gu5-51" value="观察法" style="rounded=1;strokeWidth=2;fontFamily=宋体;fontSize=15;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="160" y="1118" width="80" height="27" as="geometry" />
+          <mxGeometry x="-127.45999999999998" y="1118" width="80" height="27" as="geometry" />
         </mxCell>
         <mxCell id="trVtFAZA_i3sqb9kYu9P-1" value="小组工作介入流动儿童&#xa;提升校园欺凌认知的实务研究" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="290.5" y="1025" width="273.5" height="45" as="geometry" />
@@ -712,17 +709,11 @@
         <mxCell id="P64Qz2P9XI3jDHWXH3JJ-13" value="认知行为理论" style="rounded=1;strokeWidth=2;fontSize=15;fontFamily=宋体;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="685.7899999999998" y="1873" width="103.46" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="7fjYkvtiIGzLcPPBIIvA-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="7fjYkvtiIGzLcPPBIIvA-1" target="8SySuGSwtSwrXmpv4gu5-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="7fjYkvtiIGzLcPPBIIvA-1" value="问卷调查法" style="rounded=1;strokeWidth=2;fontFamily=宋体;fontSize=15;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="-143.95999999999998" y="1082" width="97.5" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="7fjYkvtiIGzLcPPBIIvA-1" value="问卷调查法" style="rounded=1;strokeWidth=2;fontFamily=宋体;fontSize=15;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="143.5" y="1082" width="97.5" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="7fjYkvtiIGzLcPPBIIvA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="7fjYkvtiIGzLcPPBIIvA-2" target="8SySuGSwtSwrXmpv4gu5-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="7fjYkvtiIGzLcPPBIIvA-2" value="访谈法" style="rounded=1;strokeWidth=2;fontFamily=宋体;fontSize=15;fontStyle=1;" vertex="1" parent="1">
-          <mxGeometry x="160.73" y="1154" width="80" height="27" as="geometry" />
+        <mxCell id="7fjYkvtiIGzLcPPBIIvA-2" value="访谈法" style="rounded=1;strokeWidth=2;fontFamily=宋体;fontSize=15;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="-126.72999999999999" y="1154" width="80" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
